@@ -1,1 +1,1 @@
-# Java
+Everything about Java Language.
